@@ -1,0 +1,22 @@
+#
+# Hidden Files
+.*
+.*/
+
+#
+# Hidden File Exceptions
+!.gitignore
+
+#
+# IDE Files
+nbproject/
+.idea/
+
+#
+# Annoying OS Files
+.DS_Store
+Thumbs.db
+
+#
+# Soon To Be Removed Legacy Files
+
